@@ -1,0 +1,21 @@
+{
+    "name": "farrui",
+    "version": "1.0.1",
+    "description": "FarrUI - A Tailwind CSS plugin for modern UI components",
+    "main": "farrUI.js",
+    "scripts": {
+        "build": "echo 'Nothing to build'",
+        "test": "echo 'No tests defined'"
+    },
+    "keywords": [
+        "tailwindcss",
+        "plugin",
+        "ui",
+        "farrui"
+    ],
+    "author": "Emanuel Rios Roque",
+    "license": "MIT",
+    "dependencies": {
+        "tailwindcss": "^3.0.0"
+    }
+}
