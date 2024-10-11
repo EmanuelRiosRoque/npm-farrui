@@ -1,6 +1,7 @@
 # FarrUI Plugin
 
-Este plugin de Tailwind CSS añade utilidades modernas, como efectos de glassmorphism y sombras personalizadas.
+Este plugin de Tailwind CSS añade utilidades modernas, como efectos de glassmorphism y sombras personalizadas. Con librerias como Tailwind Css DaisyUI
+
 
 ## Instalación
 
