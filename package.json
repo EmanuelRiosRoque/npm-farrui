@@ -1,6 +1,6 @@
 {
     "name": "farrui",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "FarrUI - A Tailwind CSS plugin for modern UI components",
     "main": "farrUI.js",
     "scripts": {
